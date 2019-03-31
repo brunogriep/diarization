@@ -1,0 +1,9 @@
+{
+    "confusion": 17.282561999999984,
+    "total": 516.3741540000004,
+    "correct": 337.51216100000056,
+    "missed detection": 161.5794309999999,
+    "false alarm": 4.309276999999099,
+    "diarization error rate": 0.35472586801855854,
+    "audio filename": "two_speakers_32"
+}

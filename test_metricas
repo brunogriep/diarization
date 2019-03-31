@@ -1,0 +1,8 @@
+{
+    "total": 602.469875,
+    "missed detection": 74.65450000000007,
+    "correct": 470.24212500000004,
+    "confusion": 57.57324999999983,
+    "false alarm": 0.760625000000573,
+    "diarization error rate": 0.22073863029251126
+}
