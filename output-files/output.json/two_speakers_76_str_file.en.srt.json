@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "overlap_indicator": "OL",
+        "duration": 1020.7869375,
+        "class_names": [
+            0,
+            1
+        ],
+        "num_of_speakers": 2,
+        "silence_indicator": -1
+    },
+    "srt": []
+}
